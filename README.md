@@ -1,4 +1,3 @@
-<img width="1144" height="352" alt="image" src="https://github.com/user-attachments/assets/edd0bd77-c179-4843-bede-ab8185bc40e0" /># PowerBI-Teams-Refresh-Notification
 Automating Power BI dataset refresh status notifications to Microsoft Teams using Fabric Notebooks (Python).
 ## Setup Instructions
 
